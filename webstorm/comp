@@ -1,0 +1,24 @@
+import React, { Component } from 'react';
+import { withStyles } from '@material-ui/core';
+import PropTypes from 'prop-types';
+
+
+const styles = theme => ({
+
+
+});
+
+class $VALUE$ extends Component {
+  render() {
+    $END$  
+  }
+}
+
+$VALUE$.defaultProps = {
+};
+
+$VALUE$.propTypes = {
+
+};
+
+export default withStyles(styles, { withTheme: true })($VALUE$);

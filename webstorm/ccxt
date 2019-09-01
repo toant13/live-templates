@@ -1,0 +1,7 @@
+import ccxt from ‘ccxt’;
+
+async function main() {
+ const exchange = new ccxt$END$
+}
+
+main().then(() => {}); (edited) 
