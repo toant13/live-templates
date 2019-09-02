@@ -4,4 +4,4 @@ async function main() {
  const exchange = new ccxt$END$
 }
 
-main().then(() => {}); (edited) 
+main().then(() => {});
